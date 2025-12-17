@@ -1,7 +1,7 @@
 # 🏡 Broker Portfolio – Real Estate Management Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)]
-**→ [Click here to view the repository](https://github.com/Vaishnavi-Kausale/BrokerPortfolio.git)**
+[View Broker Portfolio Repository on GitHub](https://github.com/Vaishnavi-Kausale/BrokerPortfolio.git)
+
 
 
 **Broker Portfolio** is a full-stack real estate management platform that allows brokers to efficiently manage rental property listings. It provides real-time availability updates, streamlined property management, and improved operational efficiency for real estate businesses.
