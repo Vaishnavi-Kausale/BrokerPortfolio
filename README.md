@@ -1,39 +1,38 @@
-Broker Portfolio is a full-stack real estate management application designed to help brokers efficiently manage rental property listings. The platform provides centralized property management with real-time availability updates, improving visibility and operational efficiency for brokerage operations.
+# 🏡 Broker Portfolio – Real Estate Management Platform
 
-Developed using Java and Spring Boot, this project demonstrates backend development skills, RESTful API design, and practical implementation of business workflows commonly used in real estate systems.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Vaishnavi-Kausale/BrokerPortfolio.git)  
 
-🚀 Key Features
+**Broker Portfolio** is a full-stack real estate management platform that allows brokers to efficiently manage rental property listings. It provides real-time availability updates, streamlined property management, and improved operational efficiency for real estate businesses.
 
-📋 Property Listing Management
-Brokers can create, update, and manage rental property listings from a centralized platform.
+---
 
-🏘️ Detailed Property Information
-Add comprehensive property details including:
+## ✨ Features
 
-Property images
+- **📋 Property Management**  
+  Add, edit, and manage rental property listings from a centralized platform.
 
-Location
+- **🏘️ Detailed Property Information**  
+  Include property images, location, area, and furnishing options (furnished, semi-furnished, unfurnished).
 
-Area size
+- **🔄 Real-Time Availability Updates**  
+  Property status automatically updates when rented, keeping listings accurate and up-to-date.
 
-Furnishing options (furnished / semi-furnished / unfurnished)
+- **⚙️ Streamlined Broker Workflow**  
+  Improve efficiency with instant property status visibility and centralized management.
 
-🔄 Real-Time Availability Updates
-Property status is automatically updated when rented, ensuring accurate and up-to-date availability for all users.
+---
 
-⚙️ Efficient Broker Workflow
-Streamlines property tracking and reduces manual coordination by providing instant property status visibility.
+## 🛠️ Technology Stack
 
-🛠️ Tech Stack
+| Layer         | Technology           |
+|---------------|-------------------|
+| Backend       | Java, Spring Boot   |
+| Database      | MySQL               |
+| ORM           | Hibernate / JPA     |
+| API           | RESTful Web Services|
+| Build Tool    | Maven               |
+| Version Control| Git & GitHub       |
 
-Backend: Java, Spring Boot
+---
 
-API: RESTful Web Services
 
-Database: MySQL
-
-ORM: Hibernate / JPA
-
-Build Tool: Maven
-
-Version Control: Git & GitHub
