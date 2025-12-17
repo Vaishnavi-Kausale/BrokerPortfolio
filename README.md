@@ -1,6 +1,6 @@
 # 🏡 Broker Portfolio – Real Estate Management Platform
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Vaishnavi-Kausale/BrokerPortfolio.git)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)]
 **→ [Click here to view the repository](https://github.com/Vaishnavi-Kausale/BrokerPortfolio.git)**
 
 
